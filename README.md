@@ -7,6 +7,7 @@ E pode ser um modo de esconder alguns links, como exemplo de contato em currícu
 
 *Funcionamento⚙️
 
+
 Ao ser fornecido um link, o código irá armazenar no banco de dados e vai criar um novo link aleatório,
 este novo link será apenas um modo de referenciar o link original, ao acessa-lo o código irá buscar no banco de dados o link original,
 mostrando o conteúdo do link.
